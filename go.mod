@@ -8,11 +8,10 @@ require (
 	github.com/minio/sha256-simd v1.0.0 // indirect
 	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/prometheus/procfs v0.7.3
+	github.com/minio/pkg v1.0.11
 	github.com/secure-io/sio-go v0.3.1
 	github.com/shirou/gopsutil/v3 v3.21.6
-	github.com/smartystreets/assertions v1.1.1 // indirect
 	github.com/tinylib/msgp v1.1.3
 	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b
 	golang.org/x/net v0.0.0-20210421230115-4e50805a0758
-	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
